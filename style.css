@@ -1,0 +1,17 @@
+body {
+	background-color: black;
+}
+#myCanvas {
+	border: 5px solid #443c3c;
+	background-image: url('images/back.jpeg');
+}
+
+h1 {
+	font-family: fantasy;
+	text-transform: uppercase;
+	color: #e2dbdb;
+}
+
+h3{
+	color: #e2dbdb;
+}
